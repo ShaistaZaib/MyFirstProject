@@ -1,3 +1,2 @@
 # MyFirstProject
-This is my first repository
-changes made by shaista
+This is my first repository.<br>changes made by shaista
